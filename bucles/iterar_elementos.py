@@ -32,3 +32,11 @@ for num in range(len(numeros)):
 #forma correcta de recorrer una lista con su indice
 for num in enumerate(numeros):
     print(num)
+    
+#usando el for/else
+for numero in numeros:
+    print(f"ejecutando el ultimo bucle, valor actual: {numero}")
+else:
+    print("el bucle termino")
+    
+#todo lo anterior sirve igual para tuplas, listas y conjutnos.
