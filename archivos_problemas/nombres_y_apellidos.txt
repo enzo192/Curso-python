@@ -1,0 +1,17 @@
+los datos son:
+
+Nombre: matias
+Apellido: Guido
+---------
+Nombre: camila
+Apellido: tarado
+---------
+Nombre: roberto
+Apellido: zing
+---------
+Nombre: pedro
+Apellido: prado
+---------
+Nombre: Enzo
+Apellido: villa
+---------
